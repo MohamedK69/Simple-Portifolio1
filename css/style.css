@@ -1,0 +1,51 @@
+.lefth{
+    color: #2d3c49;
+    
+    
+}
+  hr {
+       display: block;
+       position: relative;
+       padding: 0;
+      
+       margin: 10px 30px auto;
+       height: 0;
+       width: 88%;
+       max-height: 0;
+       font-size: 5px;
+       line-height: 0;
+       clear: both;
+       border: none;
+       border-top: 5px solid #aaaaaa;
+       border-bottom: 1px solid #aaaaaa;
+    }
+.mimg{
+    margin-left: 4%;
+    width: 800px;
+    height:400px; 
+}
+h2{
+    color: #7d97ad;
+    margin-left: 3px;
+    font-weight: bold;
+    
+}
+.bimg{
+    width: 250px;
+    height: 250px;
+    padding: 8px;
+    
+}
+h6{
+    margin-left: 20%;
+    font-weight: bold;
+}
+.container{
+    max-width: 960px;
+    margin: auto;
+}
+
+body{
+    
+    background-color: beige;
+}
